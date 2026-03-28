@@ -1,4 +1,5 @@
-DSA Problem Tracker
+# Leetcode_progress
+Leetcode Problem Tracker
 
 A tool to store your solved DSA problem,you can see it and see your progress
 
