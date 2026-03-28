@@ -107,6 +107,6 @@ while True:
     elif answer == 5:
         break
     else:
-        print("Invalid value")
+        print("Invalid")
 
 
